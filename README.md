@@ -3,3 +3,5 @@ LAST MONTH WAS GOOD, LETS MAKE THIS MONTH EVEN BETTER.
 
 SEP-01
 Working on AIxE-comm backend.
+
+SEP-02
