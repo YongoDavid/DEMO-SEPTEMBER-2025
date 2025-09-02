@@ -10,3 +10,4 @@ Still on the the backend.
 
 SEP 03
 New day, same grind.
+Still having some issues with Node and Mailtrap but i should resolve it today.
