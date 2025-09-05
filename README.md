@@ -14,3 +14,5 @@ Still having some issues with Node and Mailtrap but i should resolve it today.
 
 SEP 04
 New day, same grind!
+
+SEP 05
