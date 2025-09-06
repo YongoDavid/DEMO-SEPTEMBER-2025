@@ -21,3 +21,4 @@ Mail trap issue fixed.
 
 SEP 06
 New day, same grind!
+Still working on AI-ECOM auth.
