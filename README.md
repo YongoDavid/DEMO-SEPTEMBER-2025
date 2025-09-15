@@ -47,3 +47,5 @@ Sunday, light work.
 SEP 15
 New week, new day same grind.
 Working on AIxECOM and MOA website.
+
+SEP 16
