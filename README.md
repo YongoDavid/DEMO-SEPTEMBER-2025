@@ -50,3 +50,4 @@ Working on AIxECOM and MOA website.
 
 SEP 16
 New day, same grind!
+MOA website 80% complete.
