@@ -49,4 +49,4 @@ New week, new day same grind.
 Working on AIxECOM and MOA website.
 
 SEP 16
-New week, same grind!
+New day, same grind!
