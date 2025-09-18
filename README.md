@@ -55,3 +55,5 @@ MOA website 80% complete.
 SEP 17
 New day, same grind!
 Back to AIxECOM.
+
+SEP18
