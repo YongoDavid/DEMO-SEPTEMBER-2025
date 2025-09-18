@@ -56,4 +56,5 @@ SEP 17
 New day, same grind!
 Back to AIxECOM.
 
-SEP18
+SEP 18
+New day,same grind.
